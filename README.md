@@ -38,6 +38,3 @@ The solution integrates:
   Integrates kinematic calculations, path generation, and plotting for simulation or hardware demo.
 
 ---
-
-## 📂 Repository Structure
-
